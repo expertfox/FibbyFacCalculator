@@ -1,0 +1,11 @@
+rootProject.name = 'jni_gradle_helloworld'
+include 'java_app', 'c_library'
+include 'PluginsAPI'
+include 'Plugin_ProgressBar'
+include 'Fibonacci_Plugin'
+include 'Plugin_Fibonacci'
+include 'Plugin_Factorial'
+include 'Plugin_CSV'
+include 'CPlugin_CSV'
+include 'C_Plugin_ProgressBar'
+
